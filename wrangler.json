@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "keepon",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e93e73ed-72dd-4346-b084-f5e9bc3c68ce",
+      "database_name": "shy-sky-ee9e-d1-keepon"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
